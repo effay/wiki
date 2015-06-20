@@ -29,6 +29,7 @@ About /fa/
 - Info about the board.
 - Archive links
 - 8 meme pictures
+
 > Maybe we have some information about our trips? Like, a picture of them and two sentences
 
 Men's Basics
@@ -38,6 +39,7 @@ Men's Basics
 - Outerwear
 - Accessories
 - What to wear during what season
+
 > I both like and don't like the idea of having a basics, because it's convenient for newcomers, but it's telling people what to wear, and that's what got our old sticky so dated
 
 Women's Basics
@@ -52,6 +54,7 @@ Women's Basics
 - Hair
 - Hair Color
 - Make-up
+
 > Same this as men's
 
 Grooming
@@ -67,7 +70,9 @@ Grooming
 Stores
 - Defunct wiki links to local clothing stores
 - Recommended brands for specific clothing
+
 > Like a best of? I like it a lot
+
 - Thrift stores
 - Archive of non-categorized stores
 
@@ -81,6 +86,7 @@ Styles
 - Lunarcore
 - Heroin Chic
 - Norm-core
+
 > In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
 
 Infographics/Charts
@@ -88,6 +94,7 @@ Infographics/Charts
 
 Glossary
 - Glossary of /fa/ terms
+
 > Here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
 
 Links
