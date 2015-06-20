@@ -3,8 +3,7 @@
 THE COMPLETE LAYOUT OF THE NEW /fa/ WIKI:
 
 /fa/ Sticky Home
-
-Here, on the front page, would be where the introduction would be
+> Here, on the front page, would be where the introduction would be
 
 Internal wiki links:
 - Introduction
@@ -30,7 +29,7 @@ About /fa/
 - Info about the board.
 - Archive links
 - 8 meme pictures
->maybe we have some information about our trips? Like, a picture of them and two sentences
+> Maybe we have some information about our trips? Like, a picture of them and two sentences
 
 Men's Basics
 - Tops
@@ -39,7 +38,7 @@ Men's Basics
 - Outerwear
 - Accessories
 - What to wear during what season
->I both like and don't like the idea of having a basics, because it's convenient for newcomers, but it's telling people what to wear, and that's what got our old sticky so dated
+> I both like and don't like the idea of having a basics, because it's convenient for newcomers, but it's telling people what to wear, and that's what got our old sticky so dated
 
 Women's Basics
 - Shops
@@ -53,7 +52,7 @@ Women's Basics
 - Hair
 - Hair Color
 - Make-up
->same this as men's
+> Same this as men's
 
 Grooming
 - Hair-care basics
@@ -68,7 +67,7 @@ Grooming
 Stores
 - Defunct wiki links to local clothing stores
 - Recommended brands for specific clothing
->like a best of? I like it a lot
+> Like a best of? I like it a lot
 - Thrift stores
 - Archive of non-categorized stores
 
@@ -82,14 +81,14 @@ Styles
 - Lunarcore
 - Heroin Chic
 - Norm-core
->In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
+> In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
 
 Infographics/Charts
 - Only a link to Young Stalin
 
 Glossary
 - Glossary of /fa/ terms
->here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
+> Here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
 
 Links
 - Unsorted links
