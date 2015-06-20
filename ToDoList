@@ -1,4 +1,7 @@
 #Format: [Task to be done] (Status: [Result])
+
+#INPR = In Progress; TBD = To Be Determined)
+
 #We should consider adding user tags to this, in order to make it clear who-does-what
 
 Make a thread about improving the wiki. (DONE)
@@ -22,3 +25,4 @@ Register github as a base of operations (DONE: github.com/effay)
 Establish a method of direct communication (DONE: IRC: rizon.net/chat - #/fa/)
 
 Design and upload a project logo for github (DONE)
+
