@@ -1,40 +1,29 @@
-**Format: [Task to be done] (Status: [Result])**
+**Format: Things in parentheses clarify our actions**
 
 **INPR = In Progress; TBD = To Be Determined (as in: It's not time to do that yet)**
 
 **We should consider adding user tags to this, in order to make it clear who-does-what.**
 
-Make a thread about improving the wiki. (DONE)
+### Done
+- Make a thread about improving the wiki. 
+- Check our (editing) previlege on tuxbell.com (registered users can edit pages)
+- See that the Tuxbell admin is active (he [Caleb] is and is willing to help)
+- Map the current structure of the wiki
+- Register github as a base of operations (github.com/effay)
+- Start a designated IRC channel that /could/ be used for Wiki discussion (#effay @ rizon)
+- Establish a method of direct communication (#/fa/ @ rizon)
+- Design and upload a project logo for github 
+- Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (use .md)
+- Add all three current contributors to the Effay GitHub
 
-Brainstorm with the board in order to establish the most needed changes to the wiki (INPR: Still going)
+### INPR
+- Brainstorm with the board in order to establish the most needed changes to the wiki (still going)
+- Make a prototype structure for the new Wiki
+- Ask for more contributors in-thread (awaiting response)
+- Resolve Keyco's tuxbell registration problem by emailing tuxbell admin (awaiting response)
+- Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
 
-Check our (editing) privilege on tuxbell.com (DONE - Registered users can edit pages)
-
-See that the Tuxbell admin is active (DONE: He is, and willing to help)
-
-Map the current structure of the wiki (DONE)
- 
-Make a prototype structure for the new Wiki (INPR)
-
-Ask for more contributors in-thread (INPR: Awaiting response)
-
-Resolve Keyco's tuxbell registration problem by emailing tuxbell admin (INPR: Awaiting response)
-
-Register github as a base of operations (DONE: github.com/effay)
-
-Start a designated IRC channel that /could/ be used for Wiki discussion (DONE - #effay @ rizon)
-
-Establish a method of direct communication (DONE: IRC: rizon.net/chat - #/fa/)
-
-Design and upload a project logo for github (DONE)
-
-Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (DONE: .md)
-
-Add all three current contributors to the Effay GitHub (Done - v nice)
-
-Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling? [INPR]
-
-
+### TBD
 
 ---
 ---
