@@ -9,7 +9,7 @@ This repository is dedicated to improving the state of [**the Wiki**](http://tux
 
 **To Do List** - General list of things we have done, are doing, and will do. Work in progress.
 
-If you wish to contribute to this project on GitHub, make an account and send your username to:
+How to get in touch with us:
 
 *adrift*, *KeyCo*, or *STHLM*, in the improve-the-sticky threads on /fa/.
 
