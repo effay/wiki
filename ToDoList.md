@@ -1,7 +1,5 @@
 **Format: Things in parentheses clarify our actions**
 
-**INPR = In Progress; TBD = To Be Determined (as in: It's not time to do that yet)**
-
 **We should consider adding user tags to this, in order to make it clear who-does-what.**
 
 ### Done
@@ -16,7 +14,7 @@
 - Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (use .md)
 - Add all three current contributors to the Effay GitHub
 
-### INPR
+### In Progress
 - Brainstorm with the board in order to establish the most needed changes to the wiki (still going)
 - Make a prototype structure for the new Wiki
 - Ask for more contributors in-thread (awaiting response)
@@ -25,7 +23,7 @@
 - Register all three users on Rizon (Only KeyCo left)
 - OP all of the three users on #effay (Once you've registered and set nickname enforce on)
 
-### TBD
+### To Be Determined (as in don't do yet!)
 
 ---
 ---
