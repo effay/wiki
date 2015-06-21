@@ -4,7 +4,7 @@
 
 ### Done
 - Make a thread about improving the wiki. 
-- Check our (editing) previlege on [tuxbell.com](https://tuxbell.com) (registered users can edit pages)
+- Check our (editing) privilege on [tuxbell.com](https://tuxbell.com) (registered users can edit pages)
 - See that the Tuxbell admin is active (he [Caleb] is and is willing to help)
 - Map the current structure of the wiki
 - Register github as a base of operations ([github.com/effay](https://http://github.com/effay))
