@@ -1,6 +1,7 @@
 ##### 4chan /fa/ Sticky Wiki Renewal Process
 
-This repository is dedicated to improving the state of [the Wiki](http://tuxbell.com/index.php/Main_Page) for the [4chan /fa/shion board](4chan.org/fa/catalog).
+This repository is dedicated to improving the state of [the Wiki](http://tuxbell.com/index.php/Main_Page) for the 
+[4chan /fa/shion board](4chan.org/fa/catalog).
 
 **Old Wiki Layout** - The old structure of the Wiki. What we have to work with. Pretty static.
 
