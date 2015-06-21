@@ -18,7 +18,7 @@
 - Brainstorm with the board in order to establish the most needed changes to the wiki (still going)
 - Make a prototype structure for the new Wiki
 - Ask for more contributors in-thread (awaiting response)
-- Resolve Keyco's tuxbell registration problem by emailing tuxbell admin (awaiting response)
+- Resolve Keyco's tuxbell registration problem by emailing Tuxbell admin (awaiting response)
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
 - Register all three users on Rizon (Only KeyCo left)
 - OP all of the three users on #effay (Once you've registered and set nickname enforce on)
