@@ -24,6 +24,7 @@
 - OP all of the three users on #effay (Once you've registered and set nickname enforce on)
 
 ### Planned tasks (Not started yet)
+- A custom CSS? ([This one looks nice](https://userstyles.org/styles/100852/wikipedia-minimalismo))
 
 ---
 ---
