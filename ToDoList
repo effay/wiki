@@ -22,11 +22,13 @@ Resolve Keyco's tuxbell registration problem by emailing tuxbell admin (INPR: Aw
 
 Register github as a base of operations (DONE: github.com/effay)
 
+Start a designated IRC channel that /could/ be used for Wiki discussion (DONE - #effay @ rizon)
+
 Establish a method of direct communication (DONE: IRC: rizon.net/chat - #/fa/)
 
 Design and upload a project logo for github (DONE)
 
-Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (INPR)
+Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (DONE: All files other than README will be in plain text.)
 
 
 
@@ -46,5 +48,5 @@ Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, 
 
 Add all three current contributors to the Effay GitHub (Done - v nice)
 
-Start a designated IRC channel that /could/ be used for Wiki discussion (DONE - #effay @ rizon)
+
 
