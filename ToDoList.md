@@ -26,7 +26,7 @@
 
 ### Planned tasks (Not started yet)
 - Email the Tuxbell admin about
-  - CSS change (include CSS code + example screenshot)
+  - CSS change (include [CSS code](https://raw.githubusercontent.com/effay/effay.github.io/master/tuxbell-minimalismo.css) + [example screenshot](http://i.imgur.com/m6aaCpM.png))
   - to what extent we are allowed to edit board guidelines/rules
   - the image thumbnail issue
   - legality/issues on replica information
