@@ -25,7 +25,7 @@
 - A custom CSS? ([This one looks nice](https://userstyles.org/styles/100852/wikipedia-minimalismo))
 
 ### Planned tasks (Not started yet)
-Email the Tuxbell admin about: CSS change; to what extent we are allowed to edit board guidelines/rules; the image thumbnail issue; legality/issues on replica information; [anything else?]
+Email the Tuxbell admin about: CSS change (include CSS code + example screenshot); to what extent we are allowed to edit board guidelines/rules; the image thumbnail issue; legality/issues on replica information; [anything else?]
 
 
 ---
@@ -51,9 +51,6 @@ Information that could be useful to people there should be featured in the stick
 - Modeling?
 - Thinspo/losing weight?
 
-
 How to make people add content:
 We don't have to make them. We can add content for them.
 It's much easier to get input from users by making threads about the topics, than asking people to edit the wiki themselves. People are more likely to write a response on /fa/. To expand the glossary, for example, we'll just make a thread sharing the current glossary list and asking people if they know any more terms that are currently used on /fa/ and what they mean.
-
-
