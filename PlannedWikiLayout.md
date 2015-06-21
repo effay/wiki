@@ -1,6 +1,8 @@
-A prototype structure that is merging KeyCo's and others ideas from the thread, as well as own ideas.
-So far, almost only the main suggested sidebar headlines of the wiki has been listed.
-Details comes later.
+**A prototype structure that is merging KeyCo's and others ideas from the thread, as well as own ideas.**
+
+**So far, almost only the main suggested sidebar headlines of the wiki has been listed.**
+
+**Details for later.**
 
 Home:
 
