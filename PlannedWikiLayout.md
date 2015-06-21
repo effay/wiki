@@ -61,7 +61,8 @@ Styles
 - Jewelwave
 - Gemcore
 (All of the above can be changed. Mostly copied from Tuxbell)
->In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
+
+> In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
 
 (Body
 - Height
@@ -107,15 +108,18 @@ Designer and brand list
 - Individual designers
 - Brands
 - Fit Index
->here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
+
+> here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
 
 (Inspo
 - Link to YoungStalin?)
 
 Stores and recommended brands
 - See current tuxbell for a good list.
->like a best of? I like it a lot - keyco
->please add recommendations on articles of clothing and reasons for recommendation - Anon
+
+> Like a best of? I like it a lot - keyco
+
+> Please add recommendations on articles of clothing and reasons for recommendation - Anon
 
 Quotes on fashion and style
 - See tuxbell
@@ -125,7 +129,9 @@ About /fa/
 - Rules (enforced)
 - Posting etiquette (encouraged)
 - The history of /fa/
-(- Notable trips)
+   - ( Notable trips)
+- IRC
+
 
 (WAYWT Archive?)
 
