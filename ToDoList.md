@@ -22,7 +22,7 @@
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
 - Register all three users on Rizon (Only KeyCo left)
 - OP all of the three users on #effay (Once you've registered and set nickname enforce on)
-- A custom CSS? ([This one looks nice](https://userstyles.org/styles/100852/wikipedia-minimalismo))
+- - Decide on a new, custom CSS. Current favorite: [Wikipedia Minimalismo](https://userstyles.org/styles/100852/wikipedia-minimalismo))
 
 ### Planned tasks (Not started yet)
 - Email the Tuxbell admin about
