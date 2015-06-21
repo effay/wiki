@@ -25,6 +25,7 @@
 - A custom CSS? ([This one looks nice](https://userstyles.org/styles/100852/wikipedia-minimalismo))
 
 ### Planned tasks (Not started yet)
+Email the Tuxbell admin about: CSS change; to what extent we are allowed to edit board guidelines/rules; the image thumbnail issue; legality/issues on replica information; [anything else?]
 
 
 ---
@@ -36,15 +37,8 @@
 
 *The following will be removed, in time.*
 
-Images aren't showing up in articles. This is crucial.
-We need images to show up everywhere.
-
 Creating regular improve-the-sticky threads with a clear list of what needs to be done, and a call for action among the board. Should manage to get people writing that way.
 remove dadcore/mfa tier shit from the introduction
-
-including info about 'fashion as art'
-
-ask the admin about the rules/"posting guidelines". 
 
 Get contributors for specific topics by starting general threads where we include information about what needs to be done in the sticky. 
 
@@ -57,20 +51,6 @@ Information that could be useful to people there should be featured in the stick
 - Modeling?
 - Thinspo/losing weight?
 
-
-Suggested method of operations:
-
-Map the current sticky structure [done]
-
-Map the planned sticky structure [in progress]
-
-Compare the current and planned sticky structure, and merge them in order to give us an perspective on what the future sticky might look like.
-
-Establish a consensus on what the sticky should, and should not, feature.
-
-List the good and bad aspects of the current sticky, and see how this can be built upon for the future version.
-
-See if there are anything in the current planned structure that should be removed/added.
 
 How to make people add content:
 We don't have to make them. We can add content for them.
