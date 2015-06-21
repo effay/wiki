@@ -102,7 +102,7 @@ Thrifting
 - Links to stores
 
 Fashion design theory
-- Eventually
+- Fashion as art
 
 Designer and brand list
 - Individual designers
