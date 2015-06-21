@@ -14,3 +14,4 @@ If you wish to contribute to this project on GitHub, create a GitHub account and
 *adrift*, *KeyCo*, or *STHLM*, in the improve-the-sticky threads on /fa/.
 
 You may also reach us in #effay on [irc.rizon.net](https://www.rizon.net/chat)
+
