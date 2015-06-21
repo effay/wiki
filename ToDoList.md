@@ -23,7 +23,7 @@
 - Register all three users on Rizon (Only KeyCo left)
 - OP all of the three users on #effay (Once you've registered and set nickname enforce on)
 
-### To Be Determined (as in don't do yet!)
+### Planned tasks (Not started yet)
 
 ---
 ---
