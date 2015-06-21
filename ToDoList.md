@@ -22,6 +22,8 @@
 - Ask for more contributors in-thread (awaiting response)
 - Resolve Keyco's tuxbell registration problem by emailing tuxbell admin (awaiting response)
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
+- Register all three users on Rizon (Only KeyCo left)
+- OP all of the three users on #effay (Once you've registered and set nickname enforce on)
 
 ### TBD
 
