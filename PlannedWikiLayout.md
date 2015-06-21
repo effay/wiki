@@ -114,7 +114,8 @@ Designer and brand list
 
 Stores and recommended brands
 - See current tuxbell for a good list.
->like a best of? I like it a lot
+>like a best of? I like it a lot - keyco
+>please add recommendations on articles of clothing and reasons for recommendation - Anon
 
 Quotes on fashion and style
 - See tuxbell
