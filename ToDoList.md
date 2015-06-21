@@ -32,11 +32,12 @@ Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, 
 
 Add all three current contributors to the Effay GitHub (Done - v nice)
 
+Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling? [INPR]
 
 
 
-
-
+---
+---
 ---
 *The following is a list of random things that will be partially incorporated in the above to-do list.*
 
