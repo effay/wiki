@@ -1,103 +1,11 @@
-# wiki
+# 4chan /fa/ Sticky Wiki Renewal Process
 
-THE COMPLETE LAYOUT OF THE NEW /fa/ WIKI:
+This repository is dedicated to improving the state of the Wiki for the 4chan /fa/shion board.
 
-/fa/ Sticky Home
-> Here, on the front page, would be where the introduction would be
+## Old Wiki Layout - The old structure of the Wiki. What we have to work with. Pretty static.
 
-Internal wiki links:
-- Introduction
-- Color theory, silhouette
-- Common style mistakes
+## Planned Wiki Layout - What we are planning on doing with the Wiki structure. Work in progress.
 
-External links:
-- Young Stalin
-- Warosu
-- ChanArchive [link rot]
+## To Do List - General list of things we have done, are doing, and will do. Work in progress.
 
-Suggested additions to navbar:
-- Quotes and Noteworthy Posts
-- List of Brands
-- Shoes
 
-Sidebar links:
-
-Home
-- Link to /fa/ sticky home
-
-About /fa/
-- Info about the board.
-- Archive links
-- 8 meme pictures
-
-> Maybe we have some information about our trips? Like, a picture of them and two sentences
-
-Men's Basics
-- Tops
-- Bottoms
-- Shoes
-- Outerwear
-- Accessories
-- What to wear during what season
-
-> I both like and don't like the idea of having a basics, because it's convenient for newcomers, but it's telling people what to wear, and that's what got our old sticky so dated
-
-Women's Basics
-- Shops
-- Tops
-- Dresses
-- Pants/Shorts
-- Skirts
-- Outerwear
-- Shoes
-- Accessories
-- Hair
-- Hair Color
-- Make-up
-
-> Same this as men's
-
-Grooming
-- Hair-care basics
-- Skin-care basics
-- Acne treatment
-- Shave that beard
-- Trimming
-- Smells
-- Products
-- Other resources
-
-Stores
-- Defunct wiki links to local clothing stores
-- Recommended brands for specific clothing
-
-> Like a best of? I like it a lot
-
-- Thrift stores
-- Archive of non-categorized stores
-
-Styles
-- A small note on styles
-- Traditional
-- Prep
-- Streetwear
-- Artisanal/Avant-Garde
-- Urban Techwear
-- Lunarcore
-- Heroin Chic
-- Norm-core
-
-> In theory, this would be much much MUCH bigger, because then, as certain styles become fashionable and unfashionable, the sticky already has something on the trend at hand, preventing the sticky from becoming dated
-
-Infographics/Charts
-- Only a link to Young Stalin
-
-Glossary
-- Glossary of /fa/ terms
-
-> Here maybe we can also have a glossary of brands and how the garments and articles from these brands fit.
-
-Links
-- Unsorted links
-- /fa/ archive links
-- Useful blogs
