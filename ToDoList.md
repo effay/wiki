@@ -1,8 +1,8 @@
-##Format: [Task to be done] (Status: [Result])
+**Format: [Task to be done] (Status: [Result])**
 
-#INPR = In Progress; TBD = To Be Determined (as in: It's not time to do that yet)
+**INPR = In Progress; TBD = To Be Determined (as in: It's not time to do that yet)**
 
-#We should consider adding user tags to this, in order to make it clear who-does-what.
+**We should consider adding user tags to this, in order to make it clear who-does-what.**
 
 Make a thread about improving the wiki. (DONE)
 
