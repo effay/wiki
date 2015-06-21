@@ -104,3 +104,8 @@
 - Glossary
 - Links
 
+## Inadequate Sections
+
+### These are sections that need to be either:
+1. Completely redone
+2. Significantly revised
