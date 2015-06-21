@@ -25,7 +25,12 @@
 - A custom CSS? ([This one looks nice](https://userstyles.org/styles/100852/wikipedia-minimalismo))
 
 ### Planned tasks (Not started yet)
-Email the Tuxbell admin about: CSS change (include CSS code + example screenshot); to what extent we are allowed to edit board guidelines/rules; the image thumbnail issue; legality/issues on replica information; [anything else?]
+- Email the Tuxbell admin about
+  - CSS change (include CSS code + example screenshot)
+  - to what extent we are allowed to edit board guidelines/rules
+  - the image thumbnail issue
+  - legality/issues on replica information
+  - [anything else?]
 
 
 ---
