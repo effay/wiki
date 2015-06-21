@@ -11,6 +11,6 @@ This repository is dedicated to improving the state of [**the Wiki**](http://tux
 
 If you wish to contribute to this project on GitHub, create a GitHub account and send your username to either:
 
-adrift, KeyCo, or STHLM, in the improve-the-sticky threads on /fa/.
+*adrift*, *KeyCo*, or *STHLM*, in the improve-the-sticky threads on /fa/.
 
 You may also reach us in #effay on irc.rizon.net
