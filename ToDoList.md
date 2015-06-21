@@ -4,15 +4,15 @@
 
 ### Done
 - Make a thread about improving the wiki. 
-- Check our (editing) previlege on tuxbell.com (registered users can edit pages)
+- Check our (editing) previlege on [tuxbell.com](https://tuxbell.com) (registered users can edit pages)
 - See that the Tuxbell admin is active (he [Caleb] is and is willing to help)
 - Map the current structure of the wiki
-- Register github as a base of operations (github.com/effay)
+- Register github as a base of operations ([github.com/effay](https://http://github.com/effay))
 - Start a designated IRC channel that /could/ be used for Wiki discussion (#effay @ rizon)
 - Establish a method of direct communication (#/fa/ @ rizon)
-- Design and upload a project logo for github 
-- Decide upon if we want Github Markdown (like ReadMe.md) on all files on GitHub, for layout purposes. (use .md)
-- Add all three current contributors to the Effay GitHub
+- Design and upload a [project logo](https://raw.githubusercontent.com/effay/effay.github.io/master/effaylogo.png) for github 
+- Decide upon if we want Github Markdown (like README.md) on all files on GitHub, for layout purposes. (use .md)
+- Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
 
 ### In Progress
 - Brainstorm with the board in order to establish the most needed changes to the wiki (still going)
@@ -52,7 +52,7 @@ Information that could be useful to people there should be featured in the stick
 - Should we include Replicas in the sidebar? Ask admin for legal.
 - Should info on tattoos be included? Too off-topic?
 - How to incorporate W2C
-- Modelling?
+- Modeling?
 - Thinspo/losing weight?
 
 
