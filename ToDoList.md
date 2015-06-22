@@ -31,6 +31,8 @@
   - the image thumbnail issue
   - legality/issues on replica information
   - [anything else?]
+- Determine which sections in the wiki are extremely lacking
+  - This is a section already created in the "OldWikiLayout"
 
 
 ---
