@@ -36,6 +36,10 @@
 - Determine which sections in the wiki are extremely lacking
   - This is a section already created in the "OldWikiLayout"
 - Condense the TuxBell sticky to create a "mini sticky" /fa/, the board itself (PlannedEffayWiki.md)
+- A WAYWT archive
+  - Collect pictures from WAYWT threads, along with other styles where fitpics are present such as palewave and techwear related threads
+    - Can place them under each style as a subsection in the wiki
+    - Or maybe "User Submitted Fits"
 
 
 ---
