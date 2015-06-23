@@ -35,7 +35,6 @@
   - [anything else?]
 - Determine which sections in the wiki are extremely lacking
   - This is a section already created in the "OldWikiLayout"
-  - 
 - Condense the TuxBell sticky to create a "mini sticky" /fa/, the board itself (PlannedEffayWiki.md)
 
 
