@@ -6,12 +6,13 @@ Home:
 Introduction
 - Taste
 - Style
-- Board rules
+- Color Theory 
+- Silhouette
+- Common Style Mistakes
+- Board rules 
 - Board etiquette 
-- Know your Colour Theory and Silhouette [links]
-- Avoid Common Style Mistakes [link]
-- FAQ (Ish Fuccboi general)
-- Glossary [link]
+- FAQ 
+- Glossary 
 
 External links
 - Young Stalin
