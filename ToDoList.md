@@ -15,9 +15,11 @@
 - Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
 
 ### In Progress
-- Brainstorm with the board in order to establish the most needed changes to the wiki (still going)
 - Make a prototype structure for the new Wiki
-- Ask for more contributors in-thread (awaiting response)
+- Create a new thread in order to:
+  - Brainstorm with the board in order to establish the most needed changes to the wiki
+    - Agree on a final structure so we can start writing/revising/deleting
+  - Ask for more contributors
 - Resolve Keyco's tuxbell registration problem by emailing Tuxbell admin (awaiting response)
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
 - Register all three users on Rizon (Only KeyCo left)
