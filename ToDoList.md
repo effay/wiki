@@ -13,9 +13,9 @@
 - Design and upload a [project logo](https://raw.githubusercontent.com/effay/effay.github.io/master/effaylogo.png) for github 
 - Decide upon if we want Github Markdown (like README.md) on all files on GitHub, for layout purposes. (use .md)
 - Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
+- Make a prototype structure for the new Wiki
 
 ### In Progress
-- Make a prototype structure for the new Wiki
 - Create a new thread in order to:
   - Brainstorm with the board in order to establish the most needed changes to the wiki
     - Agree on a final structure so we can start writing/revising/deleting
