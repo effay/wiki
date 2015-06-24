@@ -1,4 +1,13 @@
-**A prototype structure that merges ideas from everywhere.**
+**A prototype structure that merges ideas from multiple places:**
+
+"MAKING A NEW STICKY!"
+https://warosu.org/fa/thread/S9996200
+
+"Wiki Sticky Renewal"
+https://warosu.org/fa/thread/S10022563
+
+Talk:/fa/ Sticky Home
+http://tuxbell.com/index.php/Talk:/fa/_Sticky_Home
 
 **Work in progress.**
 
