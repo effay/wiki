@@ -7,6 +7,8 @@ This repository is dedicated to improving the state of [**the Wiki**](http://tux
 
 **Planned Wiki Layout** - What we are planning on doing with the Wiki structure. Work in progress.
 
+**Planned Effay Sticky** - What we are planning on doing with the /fa/ sticky itself. Not started yet.
+
 **To Do List** - General list of things we have done, are doing, and will do. Work in progress.
 
 How to get in touch with us:
