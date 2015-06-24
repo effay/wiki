@@ -134,8 +134,7 @@ About /fa/
 - Posting etiquette (encouraged)
 - Glossary of board slang
 - The history of /fa/
-   - [Notable trips?]
-   - [What else?]
+   - [What goes here?]
 - IRC
   - How to connect and use IRC
   - Rules
