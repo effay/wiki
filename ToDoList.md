@@ -24,8 +24,6 @@
 - Decide on a new, custom CSS. Current favorite: [Wikipedia Minimalismo](https://userstyles.org/styles/100852/wikipedia-minimalismo)
 
 ### Planned tasks (Not started yet)
-- Email the Tuxbell admin about
-  - CSS change (include [CSS code](https://raw.githubusercontent.com/effay/effay.github.io/master/tuxbell-minimalismo.css) + [example screenshot](http://a.1339.cf/cxojwj.png))
 - Determine which sections in the wiki are extremely lacking
   - This is a section already created in the "OldWikiLayout"
 - Condense the TuxBell sticky to create a "mini sticky" /fa/, the board itself (PlannedEffayWiki.md)
@@ -33,6 +31,8 @@
   - Collect pictures from WAYWT threads, along with other styles where fitpics are present such as palewave and techwear related threads
     - Can place them under each style as a subsection in the wiki
     - Or maybe "User Submitted Fits"
+- Create a new logo for the wiki (and possibly the sticky)
+  - Make a thread about it, where users can submit pictures - and/or ask /gd/
 
 
 ---
