@@ -26,10 +26,6 @@
 ### Planned tasks (Not started yet)
 - Email the Tuxbell admin about
   - CSS change (include [CSS code](https://raw.githubusercontent.com/effay/effay.github.io/master/tuxbell-minimalismo.css) + [example screenshot](http://a.1339.cf/cxojwj.png))
-  - to what extent we are allowed to edit board guidelines/rules
-  - the image thumbnail issue
-  - legality/issues on replica information
-  - [anything else?]
 - Determine which sections in the wiki are extremely lacking
   - This is a section already created in the "OldWikiLayout"
 - Condense the TuxBell sticky to create a "mini sticky" /fa/, the board itself (PlannedEffayWiki.md)
@@ -56,7 +52,6 @@ Get contributors for specific topics by starting general threads where we includ
 The fact that we have recurring General threads should translate into the sticky.
 Information that could be useful to people there should be featured in the sticky. 
 - How to include topics related to Fuccboi general? ---> FAQ? Under introduction, or General style basics?
-- Should we include Replicas in the sidebar? Ask admin for legal.
 - Should info on tattoos be included? Too off-topic?
 - How to incorporate W2C
 - Modeling?
