@@ -9,7 +9,6 @@
 - Map the current structure of the wiki
 - Register github as a base of operations ([github.com/effay](https://http://github.com/effay))
 - Start a designated IRC channel that /could/ be used for Wiki discussion (#effay @ rizon)
-- Establish a method of direct communication (#/fa/ @ rizon)
 - Design and upload a [project logo](https://raw.githubusercontent.com/effay/effay.github.io/master/effaylogo.png) for github 
 - Decide upon if we want Github Markdown (like README.md) on all files on GitHub, for layout purposes. (use .md)
 - Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
@@ -22,8 +21,6 @@
   - Ask for more contributors
 - Resolve Keyco's tuxbell registration problem by emailing Tuxbell admin (awaiting response)
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
-- Register all three users on Rizon (Only KeyCo left)
-- OP all of the three users on #effay (Once you've registered and set nickname enforce on)
 - Decide on a new, custom CSS. Current favorite: [Wikipedia Minimalismo](https://userstyles.org/styles/100852/wikipedia-minimalismo)
 
 ### Planned tasks (Not started yet)
@@ -64,7 +61,3 @@ Information that could be useful to people there should be featured in the stick
 - How to incorporate W2C
 - Modeling?
 - Thinspo/losing weight?
-
-How to make people add content:
-We don't have to make them. We can add content for them.
-It's much easier to get input from users by making threads about the topics, than asking people to edit the wiki themselves. People are more likely to write a response on /fa/. To expand the glossary, for example, we'll just make a thread sharing the current glossary list and asking people if they know any more terms that are currently used on /fa/ and what they mean.
