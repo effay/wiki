@@ -125,6 +125,7 @@ Stores and recommended brands
 About /fa/
 - Rules (enforced)
 - Posting etiquette (encouraged)
+- Glossary of board slang
 - The history of /fa/
    - [Notable trips?]
    - [What else?]
@@ -136,9 +137,6 @@ Dank memes of /fa/
 - Classic /fa/ posts
 - Anon at a party
 - Drawfag stuff
-
-Glossary
-- Board slang
 
 Links
 - Inspiration
