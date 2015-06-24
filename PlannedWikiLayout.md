@@ -88,11 +88,12 @@ Hair, beard, and body hair
     - Tweezing
     - Other options
 
-Skin care
+Skin care and make-up
 - About skin
 - Creating a skincare routine
 - Dealing with common skincare issues 
 - Sun protection
+- Make-up
 - Recommended products
 
 Fragrances
