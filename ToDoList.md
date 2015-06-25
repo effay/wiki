@@ -32,6 +32,8 @@
     - Can place them under each style as a subsection in the wiki
     - Or maybe "User Submitted Fits"
 - Create a new logo for the wiki (and possibly the sticky)
+  - [Current sidebar logo](http://a.1339.cf/beusba.png)
+    - Unsure if this is the actual logo for TuxBell, if it exists at all
   - Make a thread about it, where users can submit pictures - and/or ask /gd/
 
 
