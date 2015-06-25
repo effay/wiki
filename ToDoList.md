@@ -13,12 +13,12 @@
 - Decide upon if we want Github Markdown (like README.md) on all files on GitHub, for layout purposes. (use .md)
 - Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
 - Make a prototype structure for the new Wiki
+- Created a new thread in order to:
+  - Brainstorm with the board in order to establish the most needed changes to the wiki
+    - Agree on a final structure so we can start writing/revising/deleting (waiting for more responses in-thread)
+  - Ask for more contributors (waiting for more responses in-thread)
 
 ### In Progress
-- Create a new thread in order to:
-  - Brainstorm with the board in order to establish the most needed changes to the wiki
-    - Agree on a final structure so we can start writing/revising/deleting
-  - Ask for more contributors
 - Resolve Keyco's tuxbell registration problem by emailing Tuxbell admin (awaiting response)
 - Decide upon To Do List structure - should it be anti-chronological to keep us from scrolling?
 - Decide on a new, custom CSS. Current favorite: [Wikipedia Minimalismo](https://userstyles.org/styles/100852/wikipedia-minimalismo)
