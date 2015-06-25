@@ -13,7 +13,7 @@
 - Decide upon if we want Github Markdown (like README.md) on all files on GitHub, for layout purposes. (use .md)
 - Add all three current contributors to the Effay GitHub (*adrift, STHLM, KeyCo*)
 - Make a prototype structure for the new Wiki
-- Created a new thread in order to:
+- Created a [new thread](https://boards.4chan.org/fa/thread/10022563) in order to:
   - Brainstorm with the board in order to establish the most needed changes to the wiki
     - Agree on a final structure so we can start writing/revising/deleting (waiting for more responses in-thread)
   - Ask for more contributors (waiting for more responses in-thread)
